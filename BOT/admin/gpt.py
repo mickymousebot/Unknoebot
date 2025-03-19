@@ -5,7 +5,7 @@ from FUNC.usersdb_func import *
 from TOOLS.check_all_func import *
 import openai
 
-openai_api_key = "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"
+openai_api_key = ""
 
 openai_client = openai.OpenAI(api_key=openai_api_key)
 
